@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Samir Khadka G
 
-**🤖 AI Engineer | 🔒 Security Researcher | 📚 Freelance AI Trainer**
+**🤖 Agentic AI Developer | Claude Code Enthusiast | AI Builder**
 
 🌍 **Chennai, India** | 📧 **zenosayz05@gmail.com**
 
@@ -13,60 +13,75 @@
 
 ## 🎯 About Me
 
-I'm a production-ready **AI builder** and **security researcher** with hands-on expertise in developing enterprise-grade AI systems, autonomous agents, and AI-powered security tools. 
+I'm an **Agentic AI Developer** who loves building **full-stack AI applications** using **Claude Code** and modern AI frameworks. I specialize in creating autonomous agents, AI-powered workflows, and intelligent automation systems that solve real-world problems.
+
+**My Approach:**
+- 🤖 **Claude-Powered Development** - Using Claude Code to rapidly prototype and build full-stack applications
+- 🧠 **Agentic AI Systems** - Building autonomous agents with tool use, routing, and intelligent decision-making
+- ⚡ **Rapid AI Prototyping** - From idea to production-ready AI apps in days, not months
+- 🔐 **Security & Reliability** - Building secure, production-grade AI systems with proper error handling and monitoring
 
 **Certified by Anthropic Academy:**
 - ✅ Claude 101 (100%)
 - ✅ AI Fluency (100%)
-
-Proven track record shipping real-world AI products including a customer service automation platform (70.6% automation rate) and an AI penetration testing suite with autonomous agent execution.
 
 ---
 
 ## 🚀 Featured Project
 
 ### [FlowCore](https://github.com/sanir321/flowcoreai)
-**Founder** - An AI Employees Platform designed to enhance productivity and streamline workflows in modern workplaces. Building AI-powered autonomous agents for enterprise automation.
+**AI-Powered Customer Service Automation**
+
+Multi-channel autonomous AI agent system that:
+- 🤖 Orchestrates 3 specialized Claude agents (Support, Booking, Sales)
+- 💬 Handles WhatsApp + Webchat conversations autonomously
+- 📚 Performs semantic search on business knowledge bases
+- 🔄 Automatically escalates to humans when needed
+- 📅 Integrates with Google Calendar for appointment booking
+
+**Key Achievement:** 70.6% automation rate in customer service workflows
 
 ---
 
 ## 💼 Core Skills
 
-### 🤖 AI & Machine Learning
+### 🤖 AI & Agentic Development
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-0066CC?style=flat&logoColor=white)
-![Agents](https://img.shields.io/badge/Autonomous_Agents-FF6B6B?style=flat&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4ECDC4?style=flat&logoColor=white)
+![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-FF6B6B?style=flat&logoColor=white)
+![Agent Routing](https://img.shields.io/badge/Agent_Routing-FF8C00?style=flat&logoColor=white)
+![Tool Use](https://img.shields.io/badge/Tool_Use-4ECDC4?style=flat&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00D9FF?style=flat&logoColor=white)
 
-### 🔒 Security & Red Teaming
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-E74C3C?style=flat&logoColor=white)
-![Red Teaming](https://img.shields.io/badge/Red_Teaming-C0392B?style=flat&logoColor=white)
-![Security Research](https://img.shields.io/badge/Security_Research-8B0000?style=flat&logoColor=white)
-![AI Security](https://img.shields.io/badge/AI_Security-DC143C?style=flat&logoColor=white)
-
-### 💻 Backend & Infrastructure
+### 🔨 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-### 🗄️ Databases & APIs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0078D4?style=flat&logoColor=white)
+### 🏗️ Full-Stack Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+### 🛠️ AI Frameworks & Tools
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-0066CC?style=flat&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-4ECDC4?style=flat&logoColor=white)
+![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-FF6B6B?style=flat&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-00CED1?style=flat&logoColor=white)
 
 ---
 
 ## 🏆 Key Achievements
 
-- ⭐ **Founder of FlowCore** - AI Employees Platform for enterprise automation
+- ⭐ **Founder of FlowCore** - Production AI agent system handling 70.6% of customer interactions autonomously
 - 🎓 **Anthropic Academy Certified** - Claude 101 & AI Fluency (100% both)
-- 📊 **70.6% Automation Rate** - Production customer service automation platform
-- 🔓 **AI Security Suite** - Autonomous agent-powered penetration testing tools
-- 🏅 Hackathon & tech competition participant
-- 🤝 Open-source contributor
-- 📖 Freelance AI Trainer & Red Teamer
+- 🤖 **Expert in Claude Code** - Rapid full-stack AI app development
+- 🔄 **Multi-Agent Architecture** - Built scalable systems with autonomous agent routing and coordination
+- 🧠 **Agentic AI Systems** - Specialized in building intelligent agents with tool use and decision-making
+- 🌐 **Full-Stack AI Developer** - Frontend, backend, AI logic, and deployment all in one
+- 🔐 **Production-Ready AI** - Built security-first, scalable AI systems
+- 📖 **AI Trainer & Consultant** - Teaching others how to build with Claude Code
 
 ---
 
@@ -78,16 +93,21 @@ Proven track record shipping real-world AI products including a customer service
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Together
 
 I'm currently open to:
-- 🎓 **Freelance AI Training**
-- 🔴 **Red Teaming & LLM Evaluation**
-- 🏗️ **AI System Architecture & Consulting**
-- 🤝 **Collaboration on AI & Security Projects**
+- 🤖 **AI Agent Development** - Building autonomous systems with Claude
+- 📚 **Freelance AI Training** - Teaching full-stack agentic AI development
+- 🔴 **AI System Design** - Architecting multi-agent systems and agent orchestration
+- 💼 **Consulting** - Full-stack AI application strategy and implementation
+- 🏗️ **Collaboration** - Working on innovative AI-powered products
 
-Feel free to reach out if you'd like to collaborate or discuss AI, security, and automation!
+**What I'm Looking For:**
+- ✨ Interesting AI/agentic problems to solve
+- 🤝 Collaboration on open-source AI projects
+- 📖 Opportunities to share knowledge on Claude Code development
+- 🚀 Building the next generation of AI-powered applications
 
 ---
 
-**⚡ Fun Fact:** I build AI systems that help enterprises automate workflows while keeping security at the forefront!
+**💡 Philosophy:** AI should be built fast, smart, and secure. Claude Code makes it possible to go from idea to production in days. Let's build something amazing! 🚀
