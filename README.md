@@ -27,22 +27,6 @@ I'm an **Agentic AI Developer** who loves building **full-stack AI applications*
 
 ---
 
-## 🚀 Featured Project
-
-### [FlowCore](https://github.com/sanir321/flowcoreai)
-**AI-Powered Customer Service Automation**
-
-Multi-channel autonomous AI agent system that:
-- 🤖 Orchestrates 3 specialized Claude agents (Support, Booking, Sales)
-- 💬 Handles WhatsApp + Webchat conversations autonomously
-- 📚 Performs semantic search on business knowledge bases
-- 🔄 Automatically escalates to humans when needed
-- 📅 Integrates with Google Calendar for appointment booking
-
-**Key Achievement:** 70.6% automation rate in customer service workflows
-
----
-
 ## 💼 Core Skills
 
 ### 🤖 AI & Agentic Development
@@ -85,11 +69,38 @@ Multi-channel autonomous AI agent system that:
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Featured Work
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanir321&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/sanir321)
+### ⭐ [FlowCore](https://github.com/sanir321/flowcoreai) - Multi-Channel AI Agent Platform
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanir321&layout=compact&theme=radical&cache_seconds=1800)](https://github.com/sanir321)
+**AI-Powered Customer Service Automation for WhatsApp & Web Chat**
+
+🤖 **What It Does:**
+- Orchestrates 3 specialized Claude agents (Support, Booking, Sales)
+- Handles customer conversations autonomously across WhatsApp + Webchat
+- Performs semantic search on business knowledge bases
+- Automatically escalates complex issues to humans
+- Integrates with Google Calendar for appointment booking
+
+📊 **Results:**
+- **70.6% automation rate** - Most customer queries handled by AI
+- **24/7 availability** - AI agents never sleep
+- **Instant response times** - No waiting for humans
+
+🛠️ **Built With:**
+- Claude + Agentic AI (multi-agent routing, tool use)
+- Next.js 15 + React (full-stack frontend)
+- Supabase (PostgreSQL 17, real-time features)
+- Semantic search with pgvector
+
+💡 **Key Features:**
+- 5-stage AI pipeline (guards → cache → router → context → execute)
+- Tool execution (create appointments, search KB, manage contacts)
+- Real-time typing indicators and presence tracking
+- Security: rate limiting, MFA, audit logging, GDPR compliance
+
+🎓 **Why It Matters:**
+Perfect showcase of agentic AI development using Claude. Built entirely using Claude Code for rapid full-stack development.
 
 ---
 
