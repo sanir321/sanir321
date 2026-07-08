@@ -70,9 +70,11 @@ Proven track record shipping real-world AI products including a customer service
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanir321&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanir321&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/sanir321)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanir321&layout=compact&theme=radical&cache_seconds=1800)](https://github.com/sanir321)
 
 ---
 
